@@ -1,0 +1,4 @@
+/client/node-modules
+/client/public
+/server/.env
+/client/.gitignore
